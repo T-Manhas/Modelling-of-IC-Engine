@@ -1,5 +1,7 @@
 # Modelling-of-IC-Engine
 
+Using MATLAB, develop a comprehensive simulation of an internal combustion engine, implementing advanced thermodynamic modeling and analysis techniques.
+
 Weekly Topics: 
 
 Week 1: Simulation of Ideal Gas Processes
